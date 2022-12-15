@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mossen0101
 - 👀 I’m interested in entreprise information management, data governance, web archiving, ERDM, Archival systems and inter norms and standards
-- 🌱 I’m currently learning DMbok, implementation ,.. od databases
+- 🌱 I’m currently learning DMbok, implementation of databases,..
 - 💞️ I’m looking to collaborate on workflows models, data models
 - 📫 How to reach me : mhsnhassani@gmail.com
 
